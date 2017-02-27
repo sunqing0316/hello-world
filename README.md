@@ -1,4 +1,4 @@
 # hello-world
 
 Just test.
-I'm new comer.
+I'm a new comer.
